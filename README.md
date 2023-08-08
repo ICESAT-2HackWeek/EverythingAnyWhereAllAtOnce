@@ -2,6 +2,8 @@
 
 This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
 
+bleep bloop, this is a test.
+
 ## Files
 
 * `.gitignore`
