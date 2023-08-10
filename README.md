@@ -4,10 +4,8 @@
 
 The following people contributed to our project throughout the week:
 * Project lead: [Shanshan ](url to their webpage)
-* Project lead: [Adrian Marziliano] (url to their webpage)
-
+* Project lead: Adrian Marziliano (https://github.com/AdrianMarzil)
 * Helper: [name of person](url to their webpage)
-
 * Team member: [Romina Piunno](url to their webpage)
 * Team member: [Michael Studinger](url to their webpage)
 * Team member: [Zach Fair](url to their webpage)
@@ -22,13 +20,16 @@ Our goal for the week was to design a simple Python script to help researchers m
 
 
 ## Project Outcomes
-We were successful in creating a (notebook/function?) which receives a user-input AOI, finds the potential ICESat-2 data points within a (25km?) radius of this AOI, and draws the three track lines associated with these data points, and outputs an interactive map of these data points and tracks along with. The script also allows for this output to be saved as a GeoJSON file which can then be saved on a mobile device to allow for planning in the field.
+We were successful in creating a (notebook/function?) which receives a user-input AOI, finds the potential ICESat-2 data points within a (25km?) radius of this AOI, and draws the three track lines (beam pairs) associated with these data points, and outputs an interactive map of these data points and tracks along with. The script also allows for this output to be saved as a GeoJSON file which can then be saved on a mobile device to allow for planning in the field.
 
 The group completed tasks for this project as follows:
-* Michael created a user interface that accepted a single latitude/longitude point and created a circle polygon t
-* Phillip downloaded ICESat-2 kml's from the Technical Specs' page ()
-* Adrian 
-* Zachary 
+* Michael created a user interface that accepted a single latitude/longitude AOI point and created a circle polygon (radius: 25km)
+* Phillip downloaded ICESat-2 time specific orbit (cycle) kml's from the 'Technical Specs' page (https://icesat-2.gsfc.nasa.gov/science/specs) and converted them to a geodataframe
+* Adrian (under Phillip's guidance) clipped the orbit geodataframe using the AOI circle polygon
+* Zachary drew the beam pairs for the clipped 
+* Shanshan created the interactive map output to display the beam pairs, AOI, and time stamps for the user-input latitude/longitude
+* Romina synthesized these tasks into a single workflow and (notebook?) 
+* David assisted in advising the group on designing a project framework, file formatting, processing efficiency, and 
 
 
 ## Files
