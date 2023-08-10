@@ -11,6 +11,7 @@ The following people contributed to our project throughout the week:
 * Team member: [Zach Fair](url to their webpage)
 * Team member: [Phillip Arndt](url to their webpage)
 * Team member: [David Shean](url to their webpage)
+* Team member: [Zheng Liu](url to their webpage)
 
 
 ## Project Goals
@@ -21,6 +22,8 @@ Our goal for the week was to design a simple Python script to help researchers m
 
 ## Project Outcomes
 We were successful in creating a (notebook/function?) which receives a user-input AOI, finds the potential ICESat-2 data points within a (25km?) radius of this AOI, and draws the three track lines (beam pairs) associated with these data points, and outputs an interactive map of these data points and tracks along with. The script also allows for this output to be saved as a GeoJSON file which can then be saved on a mobile device to allow for planning in the field.
+
+Zheng Liu pitched this idea to the ICESat-2 Hackweek group on August 7, 2023.
 
 The group completed tasks for this project as follows:
 * Michael created a user interface that accepted a single latitude/longitude AOI point and created a circle polygon (radius: 25km)
