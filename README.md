@@ -11,7 +11,7 @@ The following people contributed to our project throughout the week:
 * Team member: [Zach Fair](url to their webpage)
 * Team member: [Phillip Arndt](url to their webpage)
 * Team member: [David Shean](url to their webpage)
-* Team member: [Zheng Liu](url to their webpage](https://github.com/liuzheng-arctic)
+* Team member: [Zheng Liu](https://github.com/liuzheng-arctic)
 
 
 ## Project Goals
