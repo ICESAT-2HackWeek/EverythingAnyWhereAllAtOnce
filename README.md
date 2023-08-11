@@ -26,7 +26,7 @@ We were successful in creating a (notebook/function?) which receives a user-inpu
 Zheng Liu pitched this idea to the ICESat-2 Hackweek group on August 7, 2023.
 
 The group completed tasks for this project as follows:
-* Michael created a user interface that accepted a single latitude/longitude AOI point and created a circle polygon (radius: 25km)
+* Michael created a user interface that accepted a single latitude/longitude point and created a circle polygon with a desired radius in km. Output: GeoDataFrame and GeoJSON file.
 * Phillip downloaded ICESat-2 time specific orbit (cycle) kml's from the 'Technical Specs' page (https://icesat-2.gsfc.nasa.gov/science/specs) and converted them to a geodataframe
 * Adrian (under Phillip's guidance) clipped the orbit geodataframe using the AOI circle polygon
 * Zachary drew the beam pairs for the clipped 
