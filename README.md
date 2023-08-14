@@ -5,12 +5,11 @@
 The following people contributed to our project throughout the week:
 * Project lead: [Shanshan ](url to their webpage)
 * Project lead: [Adrian Marziliano](https://github.com/AdrianMarzil)
-* Helper: [name of person](url to their webpage)
 * Team member: [Romina Piunno](url to their webpage)
 * Team member: [Michael Studinger](https://science.gsfc.nasa.gov/sed/bio/michael.studinger)
 * Team member: [Zach Fair](url to their webpage)
 * Team member: [Phillip Arndt](url to their webpage)
-* Team member: [David Shean](url to their webpage)
+* Helper: [David Shean](https://github.com/dshean)
 * Team member: [Zheng Liu](https://github.com/liuzheng-arctic)
 
 
